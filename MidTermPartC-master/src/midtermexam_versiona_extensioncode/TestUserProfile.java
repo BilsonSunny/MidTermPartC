@@ -6,7 +6,7 @@ package midtermexam_versiona_extensioncode;
 
 /**
  *
- * @author bilson
+ * @author Bilson , 2023
  */
 import java.util.Scanner;
 
